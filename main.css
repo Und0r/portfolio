@@ -1,0 +1,11 @@
+h1 {
+    padding: 20%;
+}
+h2 {
+    padding: 1%;
+}
+
+header {
+    position: sticky;
+    top: 0px;
+}
